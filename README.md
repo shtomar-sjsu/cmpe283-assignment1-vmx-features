@@ -1,7 +1,7 @@
 # Author
 **Shivam Tomar(shivam.tomar@sjsu.edu)**
 
-# CMPE283(Virtual Technologies) Assignment 1
+# CMPE283(Virtualization Technologies) Assignment 1
  ## Following steps were followed as part of the assignment
  1. Download and install VMWare Fusion on Mac.
  2. Download the image(iso) of 64 bit Ubuntu.
