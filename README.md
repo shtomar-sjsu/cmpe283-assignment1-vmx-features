@@ -14,7 +14,7 @@ We worked in a group of two for this assignment.
 Shivam did the environment set up, coding.
 
 #### Srujana
-Srujana also researched and configured the VMWare Hypervisor, settiup up Linux image. Helped with coding and testing the out of MSR's for correctness.
+Srujana also researched and configured the VMWare Hypervisor, settiup up Linux image. Helped with coding and testing the output of MSR's for correctness.
 
 # CMPE283(Virtualization Technologies) Assignment 1
  ## Following steps were followed as part of the assignment
