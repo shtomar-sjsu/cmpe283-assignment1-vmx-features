@@ -1,6 +1,21 @@
 # Author
 **Shivam Tomar(shivam.tomar@sjsu.edu)**
 
+# Team details
+We worked in a group of two for this assignment.
+
+### Team members
+1).  Shivam Tomar(SJSU ID: 015218203)
+2).  Srujana Koripalli(SJSU ID: 013859651)
+
+### Team members Contribution
+
+#### Shivam Tomar
+Shivam did the environment set up, coding.
+
+#### Srujana
+Srujana also researched and configured the VMWare Hypervisor, settiup up Linux image. Helped with coding and testing the out of MSR's for correctness.
+
 # CMPE283(Virtualization Technologies) Assignment 1
  ## Following steps were followed as part of the assignment
  1. Download and install VMWare Fusion on Mac.
